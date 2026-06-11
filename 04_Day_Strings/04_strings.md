@@ -1,42 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 4 - Strings</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
-</div>
-
-[<< Day 3](../03_Day_Operators/03_operators.md) | [Day 5 >>](../05_Day_Lists/05_lists.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [Day 4](#day-4)
-  - [Strings](#strings)
-    - [Creating a String](#creating-a-string)
-    - [String Concatenation](#string-concatenation)
-    - [Escape Sequences in Strings](#escape-sequences-in-strings)
-    - [String formatting](#string-formatting)
-      - [Old Style String Formatting (% Operator)](#old-style-string-formatting--operator)
-      - [New Style String Formatting (str.format)](#new-style-string-formatting-strformat)
-      - [String Interpolation / f-Strings (Python 3.6+)](#string-interpolation--f-strings-python-36)
-    - [Python Strings as Sequences of Characters](#python-strings-as-sequences-of-characters)
-      - [Unpacking Characters](#unpacking-characters)
-      - [Accessing Characters in Strings by Index](#accessing-characters-in-strings-by-index)
-      - [Slicing Python Strings](#slicing-python-strings)
-      - [Reversing a String](#reversing-a-string)
-      - [Skipping Characters While Slicing](#skipping-characters-while-slicing)
-    - [String Methods](#string-methods)
-  - [💻 Exercises - Day 4](#-exercises---day-4)
-
-# Day 4
+# DChapter 4 Strings
 
 ## Strings
 

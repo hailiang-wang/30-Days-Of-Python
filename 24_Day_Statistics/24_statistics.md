@@ -1,30 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 24 - Statistics</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small>Second Edition: July, 2021</small>
-</sub>
-</div>
-
-[<< Day 23](../23_Day_Virtual_environment/23_virtual_environment.md) | [Day 25 >>](../25_Day_Pandas/25_pandas.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 24](#-day-24)
-  - [Python for Statistical Analysis](#python-for-statistical-analysis)
-  - [Statistics](#statistics)
-  - [Data](#data)
-  - [Statistics Module](#statistics-module)
-- [NumPy](#numpy)
-
-# 📘 Day 24
+# Chapter 24 Python for Statistical Analysis
 
 ## Python for Statistical Analysis
 
@@ -46,7 +20,7 @@ Data can be found in small or big format. Most of the data types we will get hav
 
 The Python _statistics_ module provides functions for calculating mathematical statistics of numerical data. The module is not intended to be a competitor to third-party libraries such as NumPy, SciPy, or proprietary full-featured statistics packages aimed at professional statisticians such as Minitab, SAS and Matlab. It is aimed at the level of graphing and scientific calculators.
 
-# NumPy
+## NumPy
 
 In the first section we defined Python as a great general-purpose programming language on its own, but with the help of other popular libraries as(numpy, scipy, matplotlib, pandas etc) it becomes a powerful environment for scientific computing.
 
@@ -58,7 +32,7 @@ So far, we have been using vscode but from now on I would recommend using Jupyte
 asabeneh@Asabeneh:~/Desktop/30DaysOfPython$ pip install numpy
 ```
 
-## Importing NumPy
+### Importing NumPy
 
 Jupyter notebook is available if your are in favor of [jupyter notebook](https://github.com/Asabeneh/data-science-for-everyone/blob/master/numpy/numpy.ipynb)
 
@@ -71,9 +45,9 @@ Jupyter notebook is available if your are in favor of [jupyter notebook](https:/
     print(dir(np))
 ```
 
-## Creating numpy array using
+### Creating numpy array using
 
-### Creating int numpy arrays
+#### Creating int numpy arrays
 
 ```py
     # Creating python List
@@ -1221,7 +1195,7 @@ plt.show()
 
 ![png](../test_files/test_143_0.png)
 
-# Summary
+## Summary
 
 To summarize, the main differences with python lists are:
 

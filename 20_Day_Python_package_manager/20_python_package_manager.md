@@ -1,37 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 20 - PIP </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small>Second Edition: July, 2021</small>
-</sub>
-</div>
-
-[<< Day 19](../19_Day_File_handling/19_file_handling.md) | [Day 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 20](#-day-20)
-  - [Python PIP - Python Package Manager](#python-pip---python-package-manager)
-    - [What is PIP ?](#what-is-pip-)
-    - [Installing PIP](#installing-pip)
-    - [Installing packages using pip](#installing-packages-using-pip)
-    - [Uninstalling Packages](#uninstalling-packages)
-    - [List of Packages](#list-of-packages)
-    - [Show Package](#show-package)
-    - [PIP Freeze](#pip-freeze)
-    - [Reading from URL](#reading-from-url)
-    - [Creating a Package](#creating-a-package)
-    - [Further Information About Packages](#further-information-about-packages)
-  - [Exercises: Day 20](#exercises-day-20)
-
-# 📘 Day 20
+# Chapter 20 Python Package Manager
 
 ## Python PIP - Python Package Manager
 

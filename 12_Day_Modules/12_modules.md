@@ -1,44 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 12 - Modules </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
-
-</div>
-
-[<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 12](#-day-12)
-  - [Modules](#modules)
-    - [What is a Module](#what-is-a-module)
-    - [Creating a Module](#creating-a-module)
-    - [Importing a Module](#importing-a-module)
-    - [Import Functions from a Module](#import-functions-from-a-module)
-    - [Import Functions from a Module and Renaming](#import-functions-from-a-module-and-renaming)
-  - [Import Built-in Modules](#import-built-in-modules)
-    - [OS Module](#os-module)
-    - [Sys Module](#sys-module)
-    - [Statistics Module](#statistics-module)
-    - [Math Module](#math-module)
-    - [String Module](#string-module)
-    - [Random Module](#random-module)
-  - [💻 Exercises: Day 12](#-exercises-day-12)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
-
-# 📘 Day 12
+# Chapter 12 Modules
 
 ## Modules
 

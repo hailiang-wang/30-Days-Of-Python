@@ -1,47 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 18 - Regular Expressions </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> First Edition: Nov 22 - Dec 22, 2019</small>
-  </sub>
-</div>
-
-
-[<< Day 17](../17_Day_Exception_handling/17_exception_handling.md) | [Day 19>>](../19_Day_File_handling/19_file_handling.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 18](#-day-18)
-  - [Regular Expressions](#regular-expressions)
-    - [The *re* Module](#the-re-module)
-    - [Methods in *re* Module](#methods-in-re-module)
-      - [Match](#match)
-      - [Search](#search)
-      - [Searching for All Matches Using *findall*](#searching-for-all-matches-using-findall)
-      - [Replacing a Substring](#replacing-a-substring)
-  - [Splitting Text Using RegEx Split](#splitting-text-using-regex-split)
-  - [Writing RegEx Patterns](#writing-regex-patterns)
-    - [Square Bracket](#square-bracket)
-    - [Escape character(\\) in RegEx](#escape-character-in-regex)
-    - [One or more times(+)](#one-or-more-times)
-    - [Period(.)](#period)
-    - [Zero or more times(\*)](#zero-or-more-times)
-    - [Zero or one time(?)](#zero-or-one-time)
-    - [Quantifier in RegEx](#quantifier-in-regex)
-    - [Cart ^](#cart-)
-  - [💻 Exercises: Day 18](#-exercises-day-18)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
-
-# 📘 Day 18
+# Chapter 18 Regular Expressions
 
 ## Regular Expressions
 

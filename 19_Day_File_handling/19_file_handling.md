@@ -1,41 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 19 - File Handling </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small>Second Edition: July, 2021</small>
-</sub>
-</div>
-
-[<< Day 18](../18_Day_Regular_expressions/18_regular_expressions.md) | [Day 20 >>](../20_Day_Python_package_manager/20_python_package_manager.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 19](#-day-19)
-  - [File Handling](#file-handling)
-    - [Opening Files for Reading](#opening-files-for-reading)
-    - [Opening Files for Writing and Updating](#opening-files-for-writing-and-updating)
-    - [Deleting Files](#deleting-files)
-  - [File Types](#file-types)
-    - [File with txt Extension](#file-with-txt-extension)
-    - [File with json Extension](#file-with-json-extension)
-    - [Changing JSON to Dictionary](#changing-json-to-dictionary)
-    - [Changing Dictionary to JSON](#changing-dictionary-to-json)
-    - [Saving as JSON File](#saving-as-json-file)
-    - [File with csv Extension](#file-with-csv-extension)
-    - [File with xlsx Extension](#file-with-xlsx-extension)
-    - [File with xml Extension](#file-with-xml-extension)
-  - [💻 Exercises: Day 19](#-exercises-day-19)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
-
-# 📘 Day 19
+# Chapter 19 File Handling
 
 ## File Handling
 

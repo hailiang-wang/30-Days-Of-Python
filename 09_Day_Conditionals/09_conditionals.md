@@ -1,38 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 9 - Conditionals</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
-</div>
-
-[<< Day 8](../08_Day_Dictionaries/08_dictionaries.md) | [Day 10 >>](../10_Day_Loops/10_loops.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 9](#-day-9)
-  - [Conditionals](#conditionals)
-    - [If Condition](#if-condition)
-    - [If Else](#if-else)
-    - [If Elif Else](#if-elif-else)
-    - [Short Hand](#short-hand)
-    - [Nested Conditions](#nested-conditions)
-    - [If Condition and Logical Operators](#if-condition-and-logical-operators)
-    - [If and Or Logical Operators](#if-and-or-logical-operators)
-  - [💻 Exercises: Day 9](#-exercises-day-9)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
-
-# 📘 Day 9
+# Chapter 9 Conditionals
 
 ## Conditionals
 

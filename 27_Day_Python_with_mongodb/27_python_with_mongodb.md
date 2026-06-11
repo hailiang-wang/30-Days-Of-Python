@@ -1,44 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of Python: Day 27 - Python with MongoDB </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
-</div>
-
-[<< Day 26](../26_Day_Python_web/26_python_web.md) | [Day 28 >>](../28_Day_API/28_API.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 27](#-day-27)
-- [Python with MongoDB](#python-with-mongodb)
-  - [MongoDB](#mongodb)
-    - [SQL versus NoSQL](#sql-versus-nosql)
-    - [Getting Connection String(MongoDB URI)](#getting-connection-stringmongodb-uri)
-    - [Connecting Flask application to MongoDB Cluster](#connecting-flask-application-to-mongodb-cluster)
-    - [Creating a database and collection](#creating-a-database-and-collection)
-    - [Inserting many documents to collection](#inserting-many-documents-to-collection)
-    - [MongoDB Find](#mongodb-find)
-    - [Find with Query](#find-with-query)
-    - [Find query with modifier](#find-query-with-modifier)
-    - [Limiting documents](#limiting-documents)
-    - [Find with sort](#find-with-sort)
-    - [Update with query](#update-with-query)
-    - [Delete Document](#delete-document)
-    - [Drop a collection](#drop-a-collection)
-  - [💻 Exercises: Day 27](#-exercises-day-27)
-
-# 📘 Day 27
-
-# Python with MongoDB
+# Chapter 27 Python with MongoDB
 
 Python is a backend technology and it can be connected with different data base applications. It can be connected to both SQL and noSQL databases. In this section, we connect Python with MongoDB database which is noSQL database. 
 
